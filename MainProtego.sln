@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainProtego", "MainProtego.csproj", "{CAFA0949-EEE7-4913-922A-A6257D61942D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CAFA0949-EEE7-4913-922A-A6257D61942D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CAFA0949-EEE7-4913-922A-A6257D61942D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CAFA0949-EEE7-4913-922A-A6257D61942D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CAFA0949-EEE7-4913-922A-A6257D61942D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E8488C38-0D6F-4ECE-9789-00B291CBC3B0}
+	EndGlobalSection
+EndGlobal
